@@ -3,7 +3,7 @@ repositories{
 }
 
 dependencies {
-   implementation 'com.github.sarriaroman:photoviewer:-SNAPSHOT'
+   implementation 'com.commit451:PhotoView:1.2.4'
    implementation 'com.squareup.picasso:picasso:2.71828'
 }
 
